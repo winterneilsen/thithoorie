@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sohghaitoh.lenix.xyz/sitemap.xml
